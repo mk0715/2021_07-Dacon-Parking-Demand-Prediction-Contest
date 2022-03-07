@@ -26,3 +26,7 @@
 ## 2. 분석 데이터
 
 - 아파트 단지 데이터, 임대주택 인구분포 데이터
+
+
+## 3. 사이트
+https://dacon.io/competitions/official/235745/overview/description
